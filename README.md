@@ -14,7 +14,7 @@ The dataset is made up of 2 files in CSV format, which have been downloaded from
 
 ### Files:
 * [olist_closed_deals_dataset.csv](https://github.com/IrisMejuto/Olist-Marketing-Funnel/blob/main/olist_closed_deals_dataset.csv)
-* [olist_marketing_qualified_leads_dataset.csv](https://github.com/IrisMejuto/Olist-Funnel/blob/main/olist_marketing_qualified_leads_dataset.csv)
+* [olist_marketing_qualified_leads_dataset.csv](https://github.com/IrisMejuto/Olist-Marketing-Funnel/blob/main/olist_marketing_qualified_leads_dataset.csv)
 
 ## 🖇️ Model:
 
