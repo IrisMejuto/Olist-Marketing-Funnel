@@ -24,7 +24,7 @@ The dataset is made up of 2 files in CSV format, which have been downloaded from
 
 The data modeling stage involved creating a relational data model that reflects the relationships between customers, sales, products, returns, and territories.
 
-![image](https://github.com/IrisMejuto/Olist-Marketing-Funnel/blob/main/Funnel%20Model.png)
+![image](https://github.com/IrisMejuto/Olist-Marketing-Funnel/blob/main/Images/Funnel%20Model.png)
 
 
  ## ❓Key questions the project answers:
