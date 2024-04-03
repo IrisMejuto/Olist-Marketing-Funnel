@@ -1,5 +1,9 @@
 # Olist-Marketing-Funnel
 Personal project carried out where I make a report with Power BI analyzing the sales funnel process of the Brazilian marketplace Olist #Power BI
+## 📊 Dashboard: 
+
+You can access the dashboard made in Power BI at the following link 👉🏼📊[Marketing Funnel Olist Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmI0MTM5YTAtYTk1ZS00YTdhLWFmNTYtNzY2YTFjMTUyZjlmIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
+
 ## 🪟 Overview
 
 This project focuses on the Olist marketplace, a Brazilian platform that connects sellers with buyers, facilitating a wide range of commercial transactions. In this context, leads are potential sellers interested in listing and selling their products on Olist. 
@@ -32,6 +36,4 @@ The data modeling stage involved creating a relational data model that reflects 
 * ✅ How does the performance of active sellers vary based on their origin or lead segment?
 
 
-## 📊 Dashboard: 
 
-You can access the dashboard made in Power BI at the following link 👉🏼📊[Marketing Funnel Olist Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmI0MTM5YTAtYTk1ZS00YTdhLWFmNTYtNzY2YTFjMTUyZjlmIiwidCI6IjA1ZWE3NGEzLTkyYzUtNGMzMS05NzhhLTkyNWMzYzc5OWNkMCIsImMiOjh9)
