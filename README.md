@@ -17,8 +17,8 @@ The funnel starts with the initial registration on a landing page and continues 
 The dataset is made up of 2 files in CSV format, which have been downloaded from Kaggle 👉 [Link to Kaggle](https://www.kaggle.com/datasets/olistbr/marketing-funnel-olist)
 
 ### Files:
-* [olist_closed_deals_dataset.csv](https://github.com/IrisMejuto/Olist-Marketing-Funnel/blob/main/olist_closed_deals_dataset.csv)
-* [olist_marketing_qualified_leads_dataset.csv](https://github.com/IrisMejuto/Olist-Marketing-Funnel/blob/main/olist_marketing_qualified_leads_dataset.csv)
+* [olist_closed_deals_dataset.csv](https://github.com/IrisMejuto/Olist-Marketing-Funnel/blob/main/Datasets/olist_closed_deals_dataset.csv)
+* [olist_marketing_qualified_leads_dataset.csv](https://github.com/IrisMejuto/Olist-Marketing-Funnel/blob/main/Datasets/olist_marketing_qualified_leads_dataset.csv)
 
 ## 🖇️ Model:
 
